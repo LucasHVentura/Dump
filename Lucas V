@@ -1,0 +1,13 @@
+/* Lucas Ventura */
+
+insert into alunos values
+(default,'Otávio','2002-05-10','M',60.50,1.75,'Brasil'),
+(default,'Sabrina','1987-09-10','F',73.55,1.53,'Bulgária'),
+(default,'Ambrosre','1964-04-01','M',60.50,1.81,'Rússia'),
+(default,'Hilda','1981-04-24','F',60.47,1.56,'Irlanda'),
+(default,'Rosalinde','1985-12-22','F',72.55,1.68,'Escócia'),
+(default,'Theo','1993-05-02','M',61.94,1.58,'França'),
+(default,'Miranda','1995-04-24','F',67.40,1.69,'Romênia'),
+(default,'Sérgio','1997-10-07','M',79.80,1.81,'México'),
+(default,'Lilith','2001-08-09','F',77.40,1.62,'Itália'),
+(default,'Alan','2007-12-13','M',65.10,1.67,'Inglaterra');
